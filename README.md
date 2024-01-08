@@ -1,5 +1,5 @@
 # 💫 About Me:
-👦 MERN stack developer<br>⚒️ Currently working on 'Online Medical Hospital Checkup Ticket System' <br>👯  Looking to collaborate on a big mern project<br>✍ Currently learning react native<br>💬 Ask me about mern stack<br>😃 Fun fact slow but goal-oriented
+👦 MERN stack developer<br>⚒️ Currently working on 'Hospital Checkup Online Ticket System' <br>👯  Looking to collaborate on a big mern project<br>✍ Currently learning react native<br>💬 Ask me about mern stack<br>😃 Fun fact slow but goal-oriented
 
 
 ## 🌐 Socials:
